@@ -1,0 +1,19 @@
+Tasks completed today:
+1. IBM Quickstart (Official)
+2. Additional Setup Tools
+
+Issues:
+1. The docs for the additional setup tools are fairly vague. Am I supposed to expect an output after running specific commands?
+
+Commands:
+
+- Load the images into minikube
+    https://minikube.sigs.k8s.io/docs/handbook/pushing/#7-loading-directly-to-in-cluster-container-runtime 
+- Modify the server-statefulset.yaml to use the tornjak backend image
+    Apply change
+- kubectl apply -f server-statefulset.yaml
+- Run the port-forward again
+
+I don't think theres much support in what everything looks like or what it's supposed to do.
+I think I ran it correctly but have no way to confirm without Maia. 
+
