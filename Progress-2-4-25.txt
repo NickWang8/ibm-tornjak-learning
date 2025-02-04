@@ -1,0 +1,12 @@
+Tasks completed today:
+1. IBM Quickstart + Additional Steps
+
+Issues:
+1. When using a windows system, there are modifications that must be made in order
+   to be able to run the commands.
+
+-> In the DockerFile-backend.container, after line 27, we can add the line:
+        RUN dos2unix run_backend.sh
+   in order to run the commands correctly.
+-> `kubectl delete po -n spire spire-server-0` is a command we can run after applying changes 
+    accoring to Maia.
