@@ -1,0 +1,7 @@
+Tasks completed today:
+1. Decided upon a task to work on
+2. Conference with Maia to discuss setup issues
+
+Issues:
+1. Should we be forking or cloning?
+2. Wrote documentation for some of the errors in the setup guides
