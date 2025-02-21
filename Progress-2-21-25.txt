@@ -1,0 +1,15 @@
+Tasks completed today:
+1. Continued working on the task I assigned myself by watching tutorial videos
+
+
+Golang [https://go.dev/] (installation) 
+    Interactive Tour of Go: https://go.dev/tour/welcome/1 (Tutorial)
+    Golangci-lint [https://golangci-lint.run/welcome/install/] 
+    MAYBE need gcc
+Javascript/Typescript
+    React [https://react.dev/learn]
+    Getting started - [https://legacy.reactjs.org/docs/getting-started.html]
+    Typescript [https://react.dev/learn/typescript]
+    React-Typescript testing [https://nabendu82.medium.com/react-testing-with-jest-and-rtl-in-typescript-a8d62f7570ff]
+Learning Golang:
+    https://www.youtube.com/watch?v=8uiZC0l4Ajw
